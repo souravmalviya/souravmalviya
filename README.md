@@ -2,10 +2,21 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Sourav%20Malviya&fontSize=42&fontColor=ffffff&fontAlignY=35" />
 
 <!-- Typing Animation (Stable) -->
+<!-- <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full-Stack+Development;AI+%26+Enthusiast;Web3+Learner;Hackathons" />
+</p> -->
+<!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full-Stack+Development;AI+%26+Enthusiast;Web3+Learner;Hackathons;Software Engineer (Internal Tools and QA) at Onclusive" />
+  <img src="https://readme-typing-svg.demolab.com
+  ?font=Fira+Code
+  &size=22
+  &pause=1000
+  &color=36BCF7
+  &center=true
+  &vCenter=true
+  &width=700
+  &lines=Full-Stack+Developer;AI+Innovation+Enthusiast;Web3+Learner;Hackathon+Winner;Analyst+at+Onclusive+India" />
 </p>
-
 ---
 
 ## 💫 About Me
