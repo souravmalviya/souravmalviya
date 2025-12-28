@@ -1,6 +1,30 @@
-# 💫 About Me:
-I’m currently working on<br><br>Building full-stack web applications using Next.js (App Router) and Spring Boot<br><br>Designing AI-powered applications, including RAG (Retrieval-Augmented Generation) systems<br><br>Exploring internal tooling & automation ideas to improve developer and QA productivity<br><br>Creating portfolio-ready projects that demonstrate real-world problem solving<br><br>👯 I’m looking to collaborate on<br><br>Software Development (Frontend, Backend, Full-Stack)<br><br>QA & Automation (test strategy, API testing, improving quality workflows)<br><br>Internal innovation projects (tools, dashboards, AI assistants, developer utilities)<br><br>Hackathons & early-stage startup ideas<br><br>🤝 I’m looking for help with<br><br>Production-ready system design for scalable web & AI applications<br><br>Best practices for Web3 integration with modern web apps<br><br>Improving testing strategies (automation, CI/CD, quality gates)<br><br>Feedback on architecture, performance, and clean code<br><br>🌱 I’m currently learning<br><br>Web3 fundamentals (EVM basics, Solidity, ethers.js)<br><br>Full-stack web development with Next.js, TypeScript, APIs<br><br>AI integration in applications (LLMs, RAG pipelines, vector databases)<br><br>Cloud & deployment basics for modern applications<br><br>💬 Ask me about<br><br>Java & Spring Boot (REST APIs, backend architecture)<br><br>React & Next.js project structuring<br><br>Hackathon strategy & execution<br><br>Building beginner-friendly AI projects<br><br>Turning ideas into resume-worthy projects<br><br>⚡ Fun fact<br><br>I’ve won multiple hackathons, including a national-level hackathon 🏆<br><br>I enjoy breaking complex systems into simple explanations<br><br>I love building things that save time or reduce manual effort
+💫 About Me:
 
+🚀 Full-Stack Developer | AI & Innovation Enthusiast<br><br>
+
+🔭 I’m currently working on<br><br>
+Building full-stack applications using Next.js and Spring Boot<br>
+Developing AI-powered projects (RAG systems, LLM integrations)<br>
+Creating internal tools to improve developer & QA productivity<br><br>
+
+👯 I’m looking to collaborate on<br><br>
+Software Development (Frontend, Backend, Full-Stack)<br>
+QA & Automation projects<br>
+Hackathons & innovative side projects<br><br>
+
+🌱 I’m currently learning<br><br>
+Web3 fundamentals (EVM, Solidity, ethers.js)<br>
+Next.js, TypeScript & modern APIs<br>
+AI integration and cloud basics<br><br>
+
+💬 Ask me about<br><br>
+Java & Spring Boot (REST APIs)<br>
+React / Next.js project structuring<br>
+Hackathons & resume-ready projects<br><br>
+
+⚡ Fun fact<br><br>
+🏆 National-level hackathon winner<br>
+I enjoy simplifying complex systems and building tools that save time
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/souravmalviya) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/SouravMalv30395) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:souravmalviya08@gmail.com) 
