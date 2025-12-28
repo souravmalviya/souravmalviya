@@ -34,9 +34,6 @@ I enjoy simplifying complex systems and building tools that save time
  
 # 📊 GitHub Stats:
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=souravmalviya&theme=dark&hide_border=false&include_all_commits=false&count_private=false" /> <br/> <img src="https://nirzak-streak-stats.vercel.app/?user=souravmalviya&theme=dark&hide_border=false" /> <br/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=souravmalviya&theme=dark&hide_border=false&layout=compact" /> </p>
-👀 Profile Views
-<p align="center"> <a href="https://visitcount.itsvg.in"> <img src="https://visitcount.itsvg.in/api?id=souravmalviya&icon=0&color=0" /> </a> </p>
-
 
 ### 📊 Coding Stats
 <p align="center">
