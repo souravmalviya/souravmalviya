@@ -1,42 +1,40 @@
-<!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Sourav%20Malviya&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+<!-- ===================== HEADER ===================== -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Sourav%20Malviya&fontSize=42&fontColor=ffffff&fontAlignY=35" />
 
-<!-- Typing Animation -->
+<!-- ===================== TYPING ===================== -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;AI+%26+RAG+Enthusiast;Web3+Learner;Hackathon+Winner" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=36BCF7&center=true&vCenter=true&width=700&lines=Software Engineer (Internal Tools & QA);AI+%26+Enthusiast;Next.js+%7C+Spring+Boot;Hackathons" />
 </p>
-
-# 💫 About Me
-
-🚀 **Full-Stack Developer | AI & Innovation Enthusiast**<br><br>
-
-🔭 I’m currently working on<br><br>
-Building full-stack applications using **Next.js** and **Spring Boot**<br>
-Developing **AI-powered projects** (RAG systems, LLM integrations)<br>
-Creating internal tools to improve **developer & QA productivity**<br><br>
-
-👯 I’m looking to collaborate on<br><br>
-Software Development (Frontend, Backend, Full-Stack)<br>
-QA & Automation projects<br>
-Hackathons & innovative side projects<br><br>
-
-🌱 I’m currently learning<br><br>
-Web3 fundamentals (EVM, Solidity, ethers.js)<br>
-Next.js, TypeScript & modern APIs<br>
-AI integration and cloud basics<br><br>
-
-💬 Ask me about<br><br>
-Java, DSA & REST APIs<br>
-React / Next.js project structuring<br>
-Hackathons & resume-ready projects<br><br>
-
-⚡ Fun fact<br><br>
-🏆 National-level hackathon winner<br>
-I enjoy simplifying complex systems and building tools that save time
 
 ---
 
-## 🌐 Socials
+## 💫 About Me
+
+🚀 **Full-Stack Developer | AI & Innovation Enthusiast**
+
+I build **scalable web applications** and **AI-powered systems** with a strong focus on **clean architecture, performance, and quality**.
+
+🔭 **Currently working on**
+- Full-stack applications using **Next.js** & **Spring Boot**
+- **AI & RAG systems** using LLMs and vector databases
+- Internal tools to improve **developer & QA productivity**
+
+🌱 **Currently learning**
+- **Web3 fundamentals** (EVM, Solidity, ethers.js)
+- Advanced **Next.js & TypeScript**
+- Cloud-ready application design
+
+💬 **Ask me about**
+- Java, DSA & REST API design
+- React / Next.js architecture
+- Hackathons & building resume-ready projects
+
+⚡ **Fun fact**  
+🏆 National-level hackathon winner who enjoys simplifying complex systems
+
+---
+
+## 🌐 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/souravmalviya)
 [![X](https://img.shields.io/badge/X-black?logo=X&logoColor=white)](https://x.com/SouravMalv30395)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:souravmalviya08@gmail.com)
@@ -49,7 +47,7 @@ I enjoy simplifying complex systems and building tools that save time
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript)
 ![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring)
 ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb)
@@ -61,38 +59,16 @@ I enjoy simplifying complex systems and building tools that save time
 
 ---
 
-## 🏆 GitHub Trophies
+## 📊 GitHub Activity
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=souravmalviya&theme=darkhub&no-frame=true&row=1&column=6" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=souravmalviya&show_icons=true&theme=dark" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 LeetCode Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=souravmalviya&show_icons=true&theme=dark&cache_seconds=86400" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=souravmalviya&theme=dark" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=souravmalviya&layout=compact&theme=dark" />
-</p>
-
----
-
-## 📊 Coding Stats (LeetCode)
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/Sourav_M16?theme=dark&font=Baloo&ext=heatmap" />
-</p>
-
----
-
-## 🐍 Contribution Snake
-<p align="center">
-  <img src="https://raw.githubusercontent.com/souravmalviya/souravmalviya/output/github-contribution-grid-snake.svg" />
+  <img src="https://leetcard.jacoblin.cool/Sourav_M16?theme=dark" />
 </p>
 
 ---
