@@ -3,9 +3,8 @@
 
 <!-- ===================== TYPING ===================== -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=36BCF7&center=true&vCenter=true&width=700&lines=Software Engineer (Internal Tools -QA);AI+%26+Enthusiast;Next.js+%7C+Spring+Boot;Hackathons" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=36BCF7&center=true&vCenter=true&width=700&lines=Full-Stack+Developing ;AI+%26+RAG+Enthusiast;Next.js+%7C+Spring+Boot;Hackathon" />
 </p>
-
 ---
 
 ## 💫 About Me
