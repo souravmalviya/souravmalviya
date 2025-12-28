@@ -4,7 +4,7 @@
 <!-- Typing Animation (Stable) -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full-Stack+Development;AI+%26+Enthusiast;Web3+Learner;Hackathons" />
-</p>>
+</p>
 ---
 
 ## 💫 About Me
@@ -59,17 +59,17 @@ I build **scalable web applications** and **AI-powered systems** with a strong f
 ---
 
 ## 📊 GitHub Activity
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=souravmalviya&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=souravmalviya&theme=dark&hide_border=false" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=souravmalviya&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
-</p>
+</p> -->
 
 
 
