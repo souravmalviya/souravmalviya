@@ -39,6 +39,12 @@ I enjoy simplifying complex systems and building tools that save time
 ---
 [![](https://visitcount.itsvg.in/api?id=souravmalviya&icon=0&color=0)](https://visitcount.itsvg.in)
 
+### 📊 Coding Stats
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/Sourav_M16?theme=dark&font=Baloo" />
+</p>
+
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!--
 **souravmalviya/souravmalviya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
