@@ -18,7 +18,7 @@ Next.js, TypeScript & modern APIs<br>
 AI integration and cloud basics<br><br>
 
 💬 Ask me about<br><br>
-Java & Spring Boot (REST APIs)<br>
+Java DSA (REST APIs etc)<br>
 React / Next.js project structuring<br>
 Hackathons & resume-ready projects<br><br>
 
