@@ -3,7 +3,7 @@
 
 <!-- ===================== TYPING ===================== -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=36BCF7&center=true&vCenter=true&width=700&lines=Software Engineer (Internal Tools & QA);AI+%26+Enthusiast;Next.js+%7C+Spring+Boot;Hackathons" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=36BCF7&center=true&vCenter=true&width=700&lines=Software Engineer (Internal Tools -QA);AI+%26+Enthusiast;Next.js+%7C+Spring+Boot;Hackathons" />
 </p>
 
 ---
@@ -61,8 +61,23 @@ I build **scalable web applications** and **AI-powered systems** with a strong f
 
 ## 📊 GitHub Activity
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=souravmalviya&show_icons=true&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=souravmalviya&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
 </p>
+
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=souravmalviya&theme=dark&hide_border=false" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=souravmalviya&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=souravmalviya&icon=0&color=0" />
+</p>
+
 
 ---
 
