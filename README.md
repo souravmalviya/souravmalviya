@@ -1,10 +1,10 @@
 <!-- ===================== HEADER ===================== -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Sourav%20Malviya&fontSize=42&fontColor=ffffff&fontAlignY=35" />
 
-<!-- ===================== TYPING ===================== -->
+<!-- Typing Animation (Stable) -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=36BCF7&center=true&vCenter=true&width=700&lines=Full-Stack+Developing ;AI+%26+RAG+Enthusiast;Next.js+%7C+Spring+Boot;Hackathon" />
-</p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full-Stack+Development;AI+%26+Enthusiast;Web3+Learner;Hackathons" />
+</p>>
 ---
 
 ## 💫 About Me
@@ -71,11 +71,7 @@ I build **scalable web applications** and **AI-powered systems** with a strong f
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=souravmalviya&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
 </p>
 
----
 
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=souravmalviya&icon=0&color=0" />
-</p>
 
 
 ---
