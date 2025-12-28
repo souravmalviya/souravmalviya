@@ -1,6 +1,11 @@
 <!-- Animated Header Banner -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Sourav%20Malviya&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 
+<!-- Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;AI+%26+RAG+Enthusiast;Web3+Learner;Hackathon+Winner" />
+</p>
+
 # 💫 About Me
 
 🚀 **Full-Stack Developer | AI & Innovation Enthusiast**<br><br>
@@ -56,6 +61,13 @@ I enjoy simplifying complex systems and building tools that save time
 
 ---
 
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=souravmalviya&theme=darkhub&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=souravmalviya&show_icons=true&theme=dark&cache_seconds=86400" />
@@ -69,12 +81,18 @@ I enjoy simplifying complex systems and building tools that save time
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=souravmalviya&layout=compact&theme=dark" />
 </p>
 
-
 ---
 
 ## 📊 Coding Stats (LeetCode)
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/Sourav_M16?theme=dark&border=0" />
+  <img src="https://leetcard.jacoblin.cool/Sourav_M16?theme=dark&font=Baloo&ext=heatmap" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+<p align="center">
+  <img src="https://raw.githubusercontent.com/souravmalviya/souravmalviya/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
@@ -82,4 +100,3 @@ I enjoy simplifying complex systems and building tools that save time
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=souravmalviya&style=flat-square&color=blue" />
 </p>
-
