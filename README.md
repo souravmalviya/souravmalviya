@@ -58,12 +58,17 @@ I enjoy simplifying complex systems and building tools that save time
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=souravmalviya&show_icons=true&theme=dark&hide_border=true" />
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=souravmalviya&theme=dark&hide_border=true" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=souravmalviya&layout=compact&theme=dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=souravmalviya&show_icons=true&theme=dark&cache_seconds=86400" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=souravmalviya&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=souravmalviya&layout=compact&theme=dark" />
+</p>
+
 
 ---
 
@@ -75,5 +80,6 @@ I enjoy simplifying complex systems and building tools that save time
 ---
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=souravmalviya&label=Profile%20Views&color=0&icon=5" />
+  <img src="https://komarev.com/ghpvc/?username=souravmalviya&style=flat-square&color=blue" />
 </p>
+
