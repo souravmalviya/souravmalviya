@@ -19,7 +19,7 @@
 I build **scalable web applications** and **AI-powered systems** with a strong focus on **clean architecture, performance, and quality**.
 
 🔭 **Currently working on**
-- Full-stack applications using **Next.js** & **Spring Boot**
+- Full-stack applications using **MERN Stack**
 - **AI & RAG systems** using LLMs and vector databases
 - Internal tools to improve **developer & QA productivity**
 
@@ -31,10 +31,9 @@ I build **scalable web applications** and **AI-powered systems** with a strong f
 💬 **Ask me about**
 - Java, DSA & REST API design
 - React / Next.js architecture
-- Hackathons & building resume-ready projects
 
 ⚡ **Fun fact**  
-🏆 National-level hackathon winner who enjoys simplifying complex systems
+🏆 I really enjoy simplifying complex systems and 
 
 ---
 
