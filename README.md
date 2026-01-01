@@ -32,8 +32,9 @@ I build **scalable web applications** and **AI-powered systems** with a strong f
 - Java, DSA & REST API design
 - React / Next.js architecture
 
+
 ⚡ **Fun fact**  
-🏆 I really enjoy simplifying complex systems and 
+🏆 I really enjoy simplifying day to day complex task with the help of automation.
 
 ---
 
